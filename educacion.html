@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Educación</title>
+  </head>
+  <body>
+    <header>
+      <h1 id="edu_inicio">Hoja de Vida</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="#edu_inicio">Educación</a></li>
+        <li><a href="experiencia.html">Experiencia</a></li>
+      </ul>
+    </nav>
+    <section>
+      <h2 id="edu_datospersonales">Datos personales</h2>
+      <a href="#edu_inicio">Volver al inicio</a>
+      <ul>
+        <li><b>Nombres</b>: Sara Aracelli</li>
+        <li><b>Apellidos</b>: Caballero Canifrú</li>
+        <li><b>Fecha de nacimiento</b>: 24 de septiembre de 1973</li>
+        <li><b>Lugar de nacimiento</b>: Temuco, Chile</li>
+      </ul>
+    </section>
+    <article>
+      <h2 id="edu_educacion">Educación</h2>
+      <a href="#edu_inicio">Volver al inicio</a>
+      <table border="1">
+        <thead>
+          <th style="padding: 15px;">Año</th>
+          <th style="padding: 15px;">Institución</th>
+          <th style="padding: 15px;">Lugar</th>
+          <th style="padding: 15px;">¿Culminó?</th>
+        </thead>
+        <tr>
+          <td style="padding: 15px;">1998</td>
+          <td style="padding: 15px;">Universidad Fidelitas</td>
+          <td style="padding: 15px;">Costa Rica</td>
+          <td style="padding: 15px;">No</td>
+        </tr>
+        <tr>
+          <td style="padding: 15px;">2000</td>
+          <td style="padding: 15px;">Cenfotec</td>
+          <td style="padding: 15px;">Costa Rica</td>
+          <td style="padding: 15px;">Si</td>
+        </tr>
+      </table>
+    </article>
+    <form autocomplete="on" name="agregar_estudios">
+      <fieldset>
+        <legend>Agregar estudios</legend>
+        <label for="year"><b>Año</b></label>
+        <select name="year">
+          <option value="">2000</option>
+          <option value="">2001</option>
+          <option value="">2002</option>
+          <option value="">2003</option>
+          <option value="">2004</option>
+        </select>
+        <br>
+        <label for="institucion"><b>Institución</b></label>
+        <input type="text" name="institucion" required="true">
+        <br>
+        <label for="lugar"><b>Lugar</b></label>
+        <textarea name="lugar" rows="2" cols="30"></textarea>
+        <br>
+        <label for="culmino"><b>¿Culminó?</b></label>
+        <input type="radio" name="culmina" value="Si">
+        <input type="radio" name="culmina" value="No">
+        <br>
+        <input type="submit" name="enviar" value="Enviar">
+        <input type="reset" value="Restablecer">
+      </fieldset>
+    </form>
+    <footer style="border-top:solid;text-align:center;">
+      <p>Información de contacto: aracelli.caballero@gmail.com - (506) 62437607</p>
+    </footer>
+  </body>
+</html>
