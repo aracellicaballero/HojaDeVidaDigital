@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="143.05479mm"
+   height="20.969593mm"
+   viewBox="0 0 143.05479 20.969593"
+   version="1.1"
+   id="svg4505"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo.svg">
+  <title
+     id="title4500">Logo Tarea</title>
+  <defs
+     id="defs4499">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 148.49999 : 1"
+       inkscape:vp_y="0 : 999.99994 : 0"
+       inkscape:vp_z="209.99999 : 148.49999 : 1"
+       inkscape:persp3d-origin="105 : 98.999994 : 1"
+       id="perspective5082" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="391.89067"
+     inkscape:cy="139.81338"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-text-baseline="true"
+     borderlayer="false"
+     showborder="true"
+     gridtolerance="10"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5050"
+       dotted="false"
+       originx="0.066145984"
+       originy="-5.4235107" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4502">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo Tarea</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.06614589,-270.60689)">
+    <g
+       id="logo_tarea"
+       transform="matrix(5.4067957,0,0,3.1698991,0.29149146,-649.88552)"
+       style="fill:#00008d;fill-opacity:1;image-rendering:optimizeSpeed"
+       inkscape:label="#logo_tarea">
+      <title
+         id="title4498">Logo Tarea</title>
+      <ellipse
+         ry="3.3072915"
+         rx="13.229166"
+         cy="293.69269"
+         cx="13.16302"
+         id="path5098"
+         style="opacity:0.05;fill:#00008d;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;line-height:1.25;font-family:Mistral;-inkscape-font-specification:'Mistral, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458579"
+     x="5.3586869"
+     y="15.80714"
+     id="text5078"
+     transform="scale(0.99983683,1.0001632)"><tspan
+       sodipodi:role="line"
+       id="tspan5076"
+       x="5.3586869"
+       y="15.80714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Mistral;-inkscape-font-specification:'Mistral, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458579">Sara Caballero Canifrú</tspan></text>
+</svg>
