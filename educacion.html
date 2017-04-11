@@ -57,11 +57,12 @@
         </tr>
       </table>
     </article>
+    <br>
     <form autocomplete="on" name="agregar_estudios">
       <fieldset>
         <legend>Agregar estudios</legend>
-        <label for="year"><b>Año</b></label>
-        <select name="year">
+        <label for="year" style="margin:5px;"><b>Año</b></label>
+        <select name="year" style="margin:5px;">
           <option value="">2000</option>
           <option value="">2001</option>
           <option value="">2002</option>
@@ -69,18 +70,18 @@
           <option value="">2004</option>
         </select>
         <br>
-        <label for="institucion"><b>Institución</b></label>
-        <input type="text" name="institucion" required="true">
+        <label for="institucion" style="margin:5px;"><b>Institución</b></label>
+        <input type="text" name="institucion" required="true" style="margin:5px;">
         <br>
-        <label for="lugar"><b>Lugar</b></label>
-        <textarea name="lugar" rows="2" cols="30"></textarea>
+        <label for="lugar" style="margin:5px;"><b>Lugar</b></label>
+        <textarea name="lugar" rows="2" cols="30" style="margin:5px;"></textarea>
         <br>
-        <label for="culmino"><b>¿Culminó?</b></label>
-        <input type="radio" name="culmina" value="Si">
-        <input type="radio" name="culmina" value="No">
+        <label for="culmino" style="margin:5px;"><b>¿Culminó?</b></label>
+        <input type="radio" name="culmina" value="Si" checked="true" style="margin:5px;">Si
+        <input type="radio" name="culmina" value="No" style="margin:5px;">No
         <br>
-        <input type="submit" name="enviar" value="Enviar">
-        <input type="reset" value="Restablecer">
+        <input type="submit" name="enviar" value="Enviar" style="margin:5px;">
+        <input type="reset" value="Restablecer" style="margin:5px;">
       </fieldset>
     </form>
     <footer style="border-top:solid;border-width:1px;text-align:center;">
